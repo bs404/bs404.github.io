@@ -18,4 +18,4 @@ fields:
       format: markdown
   label: text-area
 pages:
-- _posts/test.md
+- _posts/2021-03-22-test.md
