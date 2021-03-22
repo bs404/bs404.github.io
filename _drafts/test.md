@@ -4,4 +4,4 @@ title: test
 text-area: test
 
 ---
-this is a test post through forestry
+this is a test post through forestry [Download File]( "Download File")
