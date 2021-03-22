@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
----
+permalink: "/about/"
 
-TODO: Some information about you!
+---
+TODO: Some more information about you!
 
 ### More Information
 
